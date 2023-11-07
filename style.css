@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Mooli&family=Roboto&display=swap');
+
+* {
+    font-size: 14px;
+    font-family: 'Mooli', sans-serif;
+    background-color:rgb(0, 18, 56);
+    color:rgb(243, 244, 245);
+}
+
+body {
+    margin: 30px;
+    padding: 30px;
+    text-align: center;
+}
+
+p {
+    
+    font-size: small;
+}
+
+.profile{
+    border-radius: 50%;
+}
+
+h1{
+    font-size: large;
+}
+
+.icons {
+    margin: 30px;
+}
+
+.icons2 {
+    margin: 5px;
+}
+
+.btn1 {
+    margin: 10px;
+    box-shadow: 5px 15px #01002488;
+    cursor: pointer;
+}
+
+.btn2 {
+    margin: 10px;
+    box-shadow: 5px 15px #01002488;
+    cursor: pointer;
+}
+
+.btn3 {
+    margin: 10px;
+    box-shadow: 5px 15px #01002488;
+    cursor: pointer;
+}
+
+.btn4 {
+    margin: 10px;
+    box-shadow: 5px 15px #01002488;
+    cursor: pointer;
+}
+
+.btn1:hover {
+    background:rgb(243, 244, 245);
+    color:black;
+    transition: 1s;
+}
+
+.btn2:hover {
+    background:rgb(243, 244, 245);
+    color:black;
+    transition: 1s;
+}
+
+.btn3:hover {
+    background:rgb(243, 244, 245);
+    color:black;
+    transition: 1s;
+}
+
+.btn4:hover {
+    background:rgb(243, 244, 245);
+    color:black;
+    transition: 1s;
+}
+
